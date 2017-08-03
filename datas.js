@@ -1,4 +1,5 @@
 //Linguagem JavaScript - Autor: Evandro Madeira
+//Algoritmo para retornar a diferença entre a data atual e a data de nascimento de uma pessoa, em anos, meses e dias.
 
 var dataNasc = new Date("1998-09-02T00:00:00");
 var dataAtual = new Date(); // Maior que data de nascimento
