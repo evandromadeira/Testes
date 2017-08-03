@@ -1,3 +1,5 @@
+//Linguagem JavaScript - Autor: Evandro Madeira
+
 var dataNasc = new Date("1998-09-02T00:00:00");
 var dataAtual = new Date(); // Maior que data de nascimento
 //var dataAtual = new Date("1991-05-14T00:00:00"); //Linha para testes
